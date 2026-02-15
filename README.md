@@ -14,9 +14,7 @@ $$
 
 where the nonlinear function is defined as
 
-\[
-f(x) = m_1 x + \frac{m_0 - m_1}{2} \left( |x+1| - |x-1| \right).
-\]
+\( f(x) = m_1 x + \frac{m_0 - m_1}{2} \left( |x+1| - |x-1| \right) \)
 
 Due to the presence of absolute values in \( f(x) \), the system is **nonlinear and only piecewise differentiable**, which makes both the analytical and numerical study more challenging.
 
