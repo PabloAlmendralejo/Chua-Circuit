@@ -19,9 +19,7 @@ f(x) = m_1 x + \frac{m_0 - m_1}{2} \left( |x+1| - |x-1| \right).
 
 Due to the presence of absolute values in \( f(x) \), the system is **nonlinear and only piecewise differentiable**, which makes both the analytical and numerical study more challenging.
 
----
-
-## 📌 Objectives
+## Objectives
 
 The main goals of this project are:
 
@@ -32,9 +30,7 @@ The main goals of this project are:
 - Approximate solutions of initial value problems (IVPs) using numerical methods.
 - Compare different numerical schemes and study their errors.
 
----
-
-## 🧮 Methods Implemented
+## Methods Implemented
 
 The following numerical and analytical methods are implemented:
 
