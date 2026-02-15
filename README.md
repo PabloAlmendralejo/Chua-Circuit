@@ -2,14 +2,15 @@
 
 This repository contains a SageMath/Python implementation for the **analysis and numerical approximation of solutions** of a nonlinear autonomous system of three first-order ordinary differential equations:
 
-\[
+$$
 \begin{cases}
 x' = \alpha (y - x - f(x)), \\
 y' = x - y + z, \\
 z' = -\beta y, \\
-\alpha, \beta > 0,
+\alpha, \beta > 0
 \end{cases}
-\]
+$$
+
 
 where the nonlinear function is defined as
 
